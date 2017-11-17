@@ -1,4 +1,4 @@
-println("Hello world")
+print("Hello world")
 
 class HelloBot {
 
@@ -10,4 +10,4 @@ class HelloBot {
 
 let newBot = HelloBot()
 
-println(newBot.x)
+print(newBot.x)
