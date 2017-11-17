@@ -1,7 +1,13 @@
-print("Hello world")
+println("Hello world")
 
-class helloBot {
+class HelloBot {
 
 	let x = 7
+	
+	
 
 }
+
+let newBot = HelloBot()
+
+println(newBot.x)
